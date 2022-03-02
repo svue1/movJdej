@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<div class="container login-container">
+    {% with messages = get_flashed_messages() %}
+        {% if messages %}
+            {% for message in messages %}
+            <div class="error-message">
+                <p class="error-message-text">{{ message }}<p>
+            </div>
+            {% endfor %}
+        {% endif %}
+    {% endwith %}
+    <form class="login_form" action="{{ url_for('login') }}" method="post">
+        <h1>We're glad to see you!</h1>
+        <label for="username"><b>Username</b></label>
+        <input type="text" placeholder="Enter Username" name="username" required>
+
+        <label for="password"><b>Password</b></label>
+        <input type="password" placeholder="Enter Password" name="password" required>
+
+        <input class="signup" name="action" type="submit" value="Sign Up"></input>
+        <input class="login" name="action" type="submit" value="Log In"></input>
+    </form>
+</div>
+
+{% endblock %}

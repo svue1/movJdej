@@ -1,0 +1,300 @@
+[
+    {
+        "name": "Nam Khao",
+        "author": "123 Eat @123EatbyCox",
+        "id": "1",
+        "ctext": "This is a loved Lao crispy rice dish provided from 123 Eat by Cox. It is a perfect balance of sweet, spicy, sour, and savory! It is customizable to your taste preferences.",
+        "time": "1 hour and 5 minutes",
+        "serving": "6 servings",
+        "imageURL": "https://i.ibb.co/d7Z7R7w/Nam-Khao-123-Eat.jpg",
+        "ingredients": [
+            {
+                "quantity": "6 cups",
+                "name": "rice",
+                "spec": "cooked"
+            },
+            {
+                "quantity": "4 tbsp",
+                "name": "red curry paste",
+                "spec": ""
+            },
+            {
+                "quantity": "5 tbsp",
+                "name": "fish sauce",
+                "spec": ""
+            },
+            {
+                "quantity": "3 tbsp",
+                "name": "palm sugar",
+                "spec": "or sugar"
+            },
+            {
+                "quantity": "2 tbsp",
+                "name": "lime leaves",
+                "spec": "minced"
+            },
+            {
+                "quantity": "2",
+                "name": "egg",
+                "spec": ""
+            },
+            {
+                "quantity": "1/2 cup",
+                "name": "coconut meat",
+                "spec": "grated"
+            },
+            {
+                "quantity": "1 tsp",
+                "name": "salt",
+                "spec": ""
+            },
+            {
+                "quantity": "2 cloves",
+                "name": "garlic",
+                "spec": "minced"
+            },
+            {
+                "quantity": "4 tbsp",
+                "name": "lime",
+                "spec": "juice"
+            },
+            {
+                "quantity": "2 tsp",
+                "name": "chili",
+                "spec": "powder"
+            },
+            {
+                "quantity": "2 cups",
+                "name": "nam sausage",
+                "spec": "cut to bite sized"
+            },
+            {
+                "quantity": "2",
+                "name": "Laotian sausage",
+                "spec": "cooked and cut to bite sized"
+            },
+            {
+                "quantity": "",
+                "name": "mint",
+                "spec": "chopped"
+            },
+            {
+                "quantity": "",
+                "name": "cilantro",
+                "spec": "chopped"
+            },
+            {
+                "quantity": "",
+                "name": "green onion",
+                "spec": "chopped"
+            },
+            {
+                "quantity": "",
+                "name": "basil",
+                "spec": "chopped"
+            },
+            {
+                "quantity": "",
+                "name": "red onion",
+                "spec": "or shallot chopped"
+            },
+            {
+                "quantity": "",
+                "name": "Thai pepper",
+                "spec": "optional"
+            },
+            {
+                "quantity": "",
+                "name": "oil",
+                "spec": ""
+            },
+            {
+                "quantity": "",
+                "name": "lettuce",
+                "spec": "optional"
+            }
+        ],
+        "steps": [
+            "For the dressing, mix together 2 garlic minced, 4 tbsp of lime juice, 2 tbsp of palm or regular sugar, 4 tbsp of fish sauce, and 2 tsp of chili powder. Set this dressing in the fridge until ready to serve.",
+            "For the rice balls, mix together 6 cups of cooked rice, 4 tbsp of red curry paste, 1 tbsp of fish sauce, 1 tbsp of palm or regular sugar, 2 tbsp of minced lime leaves, 2 eggs, 1/2 cup of grated coconut meat, and 1 tsp of salt.",
+            "Form the mixture into bite sized rice balls.",
+            "In a pan or pot with at least 1 inch of oil, set the heat to medium. Wait until the oil is heated.",
+            "Fry the rice balls in the oil for about 3 minutes or until golden brown. Set them aside to drain the oil and cool down.",
+            "After frying, break the rice balls into smaller pieces. Add in the nam sausage, Laotian sausage, your preferred amount of mint, cilantro, green onion, basil, red onion or shallot, and Thai pepper.",
+            "Grab the dressing from the fridge and mix it with the mixture to serve. Optional to eat each bite in a lettuce wrap!"
+        ]
+    },
+    {
+        "name": "Bean Thread Noodles with Chicken Bamboo Stir Fry",
+        "author": "123 Eat @123EatbyCox",
+        "id": "2",
+        "ctext": "This is simple but very flavorful dish! Especially with the noodles soaking up the gelatnous impact of the chicken wing tips, this is a must-try dish. ",
+        "time": "55 minutes",
+        "serving": "4 servings",
+        "imageURL": "https://i.ibb.co/gJWkH0y/Bean-Thread-Stir-Fry-123-Eat.png",
+        "ingredients": [
+            {
+                "quantity": "1 lbs",
+                "name": "chicken",
+                "spec": "ground"
+            },
+            {
+                "quantity": "1 tbsp",
+                "name": "oil",
+                "spec": ""
+            },
+            {
+                "quantity": "10",
+                "name": "chicken wing",
+                "spec": "tips"
+            },
+            {
+                "quantity": "1 cup",
+                "name": "bean thread noodle",
+                "spec": "cooked and cut to shorter lengths"
+            },
+            {
+                "quantity": "1/2 cup",
+                "name": "bell pepper",
+                "spec": "cut into strips"
+            },
+            {
+                "quantity": "1 cup",
+                "name": "bamboo shoot",
+                "spec": "cut into thin strips"
+            },
+            {
+                "quantity": "4 stalks",
+                "name": "green onion",
+                "spec": "cut into 1/2 inch thick pieces"
+            },
+            {
+                "quantity": "4 tbsp",
+                "name": "Ajinomoto seasoning powder Thai basil stir fry",
+                "spec": ""
+            },
+            {
+                "quantity": "2 tbsp",
+                "name": "oyster sauce",
+                "spec": ""
+            },
+            {
+                "quantity": "60 ml",
+                "name": "water",
+                "spec": ""
+            }
+        ],
+        "steps": [
+            "Mix the 60 ml of water and the Ajinomoto seasoning until the seasoning has best dissolved. Set this to the side.",
+            "Add oil to a large pan and set on medium heat.",
+            "Cook the ground chicken and the chicken wing tips until golden brown or fully cooked.",
+            "Add the bamboo shoots and cook for another 2 minutes.",
+            "Add the mixture of water and seasoning, oyster sauce, and bean thread noodles. Cook for another 3 minutes while folding the mixture together.",
+            "Add bell peppers and green onions. After mixing well, it is ready to serve!"
+        ]
+    },
+    {
+        "name": "Khaub Piaj Noodles",
+        "author": "123 Eat @123EatbyCox",
+        "id": "3",
+        "ctext": "Learn how to make your own Khaub Piaj noodles! That way, you can adjust the firmness and size of your noodles. This is a simple recipe provided by 123 Eat by Cox!",
+        "time": "30 minutes",
+        "serving": "8 servings",
+        "imageURL": "https://i.ibb.co/thRthj0/Khao-Piaj-123-Eat.jpg",
+        "ingredients": [
+            {
+                "quantity": "3 bags",
+                "name": "tapioca starch",
+                "spec": "Green Three Deer Brand"
+            },
+            {
+                "quantity": "1 bag",
+                "name": "rice flour",
+                "spec": "Red Erawan Brand"
+            },
+            {
+                "quantity": "5 cups",
+                "name": "water",
+                "spec": "boiling"
+            }
+        ],
+        "steps": [
+            "Mix 2 bags of tapioca starch and 1 bag of rice flour thoroughly.",
+            "On a clean surface, gather the mixture into a collective pile. Create a well (hole) in the center of the pile where you will pour water in later.",
+            "Boil 5 cups of water.",
+            "Slowly pour a little of the boiling water into the well.",
+            "Fold the powder mixture in with a spatula and create another well to pour boiling water in again.",
+            "Repeat steps 4 and 5 until all the water has been poured.",
+            "Keep folding with the spatula until the dough is cool enough to touch.",
+            "Knead the dough, and use the extra bag of tapioca starch as needed to keep dough from sticking to hands and surface.",
+            "The dough is ready to be cut into any preferred noodle size."
+        ]
+    },
+    {
+        "name": "Ncuav Sawv Rice Muffin",
+        "author": "Songlicious @songlicious",
+        "id": "4",
+        "ctext": "This is a community favorite for events and getherings. You can find these at house parties, weddings, to funerals. It is an easy grab and go snack that has a slight sweet hint. Its charm is the fluffiness!",
+        "time": "1 hour and 20 minutes",
+        "serving": "8 servings",
+        "imageURL": "https://i.ibb.co/qpsVc8L/Ncuav-Sawv-Songlicious.png",
+        "ingredients": [
+            {
+                "quantity": "15 oz",
+                "name": "rice flour",
+                "spec": ""
+            },
+            {
+                "quantity": "7 oz",
+                "name": "tapioca flour",
+                "spec": ""
+            },
+            {
+                "quantity": "1 cup",
+                "name": "sugar",
+                "spec": ""
+            },
+            {
+                "quantity": "1 cup",
+                "name": "coconut milk",
+                "spec": ""
+            },
+            {
+                "quantity": "3 cups",
+                "name": "water",
+                "spec": ""
+            },
+            {
+                "quantity": "1/2 tbsp",
+                "name": "instant yeast",
+                "spec": "dried"
+            },
+            {
+                "quantity": "1 tsp",
+                "name": "baking powder",
+                "spec": ""
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "potato flakes",
+                "spec": ""
+            },
+            {
+                "quantity": "",
+                "name": "food color",
+                "spec": "optional"
+            }
+        ],
+        "steps": [
+            "n a pot for the keeb, mix 4 oz of rice flour, 1/4 potato flakes, and 2 cups of water thoroughly.",
+            "In a separate bowl, mix the rest of the ingredients well into a paste until there are no lumps.",
+            "Cook the keeb in between low to medium heat until the mixture thickens. ",
+            "Slowly pour the keeb mixture into the paste that was mixed earlier.",
+            "Stir the mixture well then cover it and set aside for 1 hour. (Songlicious usually puts the mixture in the oven that is turned off along with a bowl of water that has been boiled.)",
+            "Optional to divide the mixture and add food color for different colors.",
+            "Pour into a muffin mold and steam for 15 minutes.",
+            "Let it cool and take it off from the mold.",
+            "Repeat 7 and 8 until all the muffins are cooked."
+        ]
+    }
+]

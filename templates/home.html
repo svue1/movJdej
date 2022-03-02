@@ -1,0 +1,35 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<!--Recipe of the Day Section-->
+<div class="feature">
+  <img src="https://i.ibb.co/GThvb09/test1.jpg" alt="A table set with Hmong Food" id="feature_i">
+  <p id="feature_p">Some prefer to season cooked rice while some prefer to butter it. Others may pair rice with curry. For Hmong, the simplicity of rice in a bowl of water is the go-to staple. It is very common to find a bowl of rice with water, mov ntse dej, at a Hmong meal. While the rice is filling, the water helps it go down easily. It is also hydrating and refreshing when eaten with more flavorful side dishes. The simplicity yet centering nature of mov ntse dej is the inspiration for this website. <br><br>- Shouayee Vue</p>
+</div> 
+<div class="home-box">
+  <!--Feature Section-->
+  <h1 class="page-title">Featured Recipes</h1>
+  <hr>
+  <div class="recipes">
+  {% for recipe in featured_recipes %}
+      <div class="recipe">
+        <div class="card accordion">
+          <img src="{{recipe['imageURL']}}" alt="{{recipe['imageURL']}}" class="card-image-top">
+          <div class="card-body">
+            <h3 class="card-title"><a href="http://localhost:5000/recipes/{{recipe['id']}}">{{recipe['name']}}</a></h3>
+            <p class="card-text">{{recipe['ctext']}}</p>
+          </div>
+        </div>
+        <div class="recipe-details panel">
+          <h3>Ingredients</h3>
+          {% for ingredient in recipe['ingredients'] %}
+        <span class="card-ingredients">{{ingredient['name']}}</span>
+          {% endfor %}
+        </div>
+      </div>
+  {% endfor %}
+  </div>
+</div>
+
+{% endblock %}

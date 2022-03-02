@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>movJdej: Hmong Recipe Website</title>
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+        <!-- Favicon -->
+        <link rel="icon" href="https://i.ibb.co/PNRXvsQ/favicon.png">
+        <script src="https://kit.fontawesome.com/54e37e037b.js" crossorigin="anonymous"></script>
+        <!-- JQuery -->
+        <script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+        <!-- AJAX -->
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+        <!-- Google fonts -->
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Sanchez&family=Spartan:wght@700&display=swap">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Sanchez&display=swap">
+    </head>
+    
+    <body>
+        <!--Navigation Bar-->
+        <div class="nav-bar" id="top-nav">
+            <div class="nav-logo">
+                <a href="{{ url_for('home') }}"><img src="https://i.ibb.co/5s7V0xY/mjd-black-logo-crop.png" alt="mjd-black-logo-crop"></a>
+            </div>
+            <div class="nav-bar--right">
+                <a href="{{ url_for('home') }}">home</a>
+                <a href="{{ url_for('recipes') }}">all recipes</a>
+                <a href="{{ url_for('about') }}">about</a>
+                {% if logged_in %}
+                <a href="{{ url_for('profile') }}"><i class='fas fa-user-alt'></i></a>
+                {% else %}
+                <a href="{{ url_for('login') }}">login</a>
+                {% endif %}
+            </div>
+            <div class="spacer"></div>
+            <div class="search-container">
+                <form action="{{ url_for('search') }}" method="post">
+                    <input type="text" placeholder="Search recipes by ingredient..." name="search">
+                    <button type="submit"><i class="fas fa-search"></i></button>
+                </form>
+            </div>
+        </div>
+
+        {% block content %}
+        {% endblock %}
+    
+        <script src="{{url_for('static', filename='app.js')}}"></script>
+    </body>
+    
+    <footer>
+        <div class="row">
+            <div class="column1">
+                <h2>movJdej</h2>
+                <p>Mov ntse dej, meaning "rice with water", is a recipe website aimed to become the the first of its kind. Its goal is to document and host a community supported, free Hmong recipe database online. It was developed as a Senior Capstone project at Macalester College based in Saint Paul, Minnesota in 2022. See the "about" page to learn more about how movJdej came to be!</p>
+            </div>
+            <div class="column2">
+                <a href="{{ url_for('recipes') }}">all recipes</a><br>
+                <a href="{{ url_for('about') }}">about</a><br>
+                <a href="https://www.macalester.edu/">macalester college</a><br>
+                {% if logged_in %}
+                    <a href="{{ url_for('profile') }}">saved recipes</a><br>
+                    <a href="{{ url_for('logout') }}">log out</a>
+                    {% else %}
+                    <a href="{{ url_for('login') }}">log in</a>
+                {% endif %}
+            </div>
+        </div>
+    </footer>
+</html> 
