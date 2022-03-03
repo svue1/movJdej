@@ -139,7 +139,9 @@ footer {
 
 /*Body CSS*/
 .feature {
-    display: block;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
     max-width: 1000px;
     min-height: 500px;
     width: 100%;
@@ -152,8 +154,7 @@ footer {
     padding: 2%;
 }
 #feature_p {
-    float: right;
-    max-width: 450px;
+    max-width: 400px;
     margin: 2%;
     padding: 1%;
     font-size: 20px;

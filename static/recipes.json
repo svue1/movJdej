@@ -541,5 +541,182 @@
             "Add salt to taste and stir the pot a few times.",
             "Once the stem is the preferred softness, turn off the heat and it is ready to serve. To store, take out all the sherlihon onto a separate plate so that the hot broth do not overcook them. Wait until the broth has cooled before putting them back in to store."
         ]
+    },
+    {
+        "name": "Ncuav Nplaum Sticky Rice Waffles",
+        "author": "Songlicious @songlicious",
+        "id": "10",
+        "ctext": "Looking to change up your waffle game? Try a Songlicious recipe for making sticky rice waffles! The exture of these waffles are chewy and bouncy like a sesame ball in comparision to traditional waffles. These will still go well with maple syrup and butter, but you can also try a palm sugar or syrup di as well! Love rice and waffles? Then this might be for you!",
+        "time": "20 minutes",
+        "serving": "3 servings",
+        "imageURL": "https://i.ibb.co/YTqrF5D/ricewaffles-Songlicious.png",
+        "ingredients": [
+            {
+                "quantity": "2 cups",
+                "name": "rice flour",
+                "spec": "glutinous"
+            },
+            {
+                "quantity": "1/2 cup",
+                "name": "sugar",
+                "spec": "brown"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "coconut milk",
+                "spec": ""
+            },
+            {
+                "quantity": "3/4 cup",
+                "name": "water",
+                "spec": ""
+            },
+            {
+                "quantity": "2 tbsp",
+                "name": "oil",
+                "spec": ""
+            },
+            {
+                "quantity": "1 tsp",
+                "name": "baking powder",
+                "spec": ""
+            }
+        ],
+        "steps": [
+            "Preheat waffle iron.",
+            "In a medium mixing bowl, add glutinous rice flour, sugar, coconut milk, water, oil, and baking powder.",
+            "Mix until everything is well combined.",
+            "Pour batter on the waffle iron. (1/2 cups)",
+            "Cook for 4.5 minutes. (It also depends on your waffles iron.)"
+        ]
+    },
+    {
+        "name": "Txiv Tsawb Kib Fried Bananas",
+        "author": "Songlicious @songlicious",
+        "id": "11",
+        "ctext": "Have a sweet treat with this fried banas recipe! If you love bananas and fried foods, this may be for you. It is quick and easy and a popular on the go snack. The crunch of the outside paired with the soft sweet banana will make you crave for more!",
+        "time": "30 minutes",
+        "serving": "5 servings",
+        "imageURL": "https://i.ibb.co/YfwbQ2r/friedbananas-Songlicious.png",
+        "ingredients": [
+            {
+                "quantity": "6",
+                "name": "bananas",
+                "spec": ""
+            },
+            {
+                "quantity": "1/2 cup",
+                "name": "flour",
+                "spec": "all-purpose"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "rice flour",
+                "spec": "glutinous"
+            },
+            {
+                "quantity": "1/2 cup",
+                "name": "rice flour",
+                "spec": ""
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "sugar",
+                "spec": ""
+            },
+            {
+                "quantity": "1 tsp",
+                "name": "baking powder",
+                "spec": ""
+            },
+            {
+                "quantity": "1/2 tsp",
+                "name": "salt",
+                "spec": ""
+            },
+            {
+                "quantity": "1 tbsp",
+                "name": "coconut powder",
+                "spec": ""
+            },
+            {
+                "quantity": "1 tsp",
+                "name": "sesame seeds",
+                "spec": "white"
+            },
+            {
+                "quantity": "1 tsp",
+                "name": "sesame seeds",
+                "spec": "black"
+            },
+            {
+                "quantity": "2/3 cup",
+                "name": "water",
+                "spec": ""
+            }
+        ],
+        "steps": [
+            "Slice bananas and set them aside.",
+            "Mix everything together.",
+            "Dip bananas into the batter",
+            "Deep fry at 350 degree Fahrenheit until golden brown.",
+            "If you want a crunchier skin, take the fried bananas and double dip then fry again until it's golden brown."
+        ]
+    },
+    {
+        "name": "Ncuav Kib Sesame Balls Filled with Taro",
+        "author": "Songlicious @songlicious",
+        "id": "12",
+        "ctext": "Sesame balls are a popular treat as they are easy to eat on the go as well as pack a ton of flavor. They are fun with the crunchy deep fried outer layer and the different varieties of fillings. Fillings include but are not limited to egg, custard, mung bean, meat, veggies, and can even be hollow like a donut! Try this recipe by Songlicious where the filling is sweet taro!",
+        "time": "1 hour 30 minutes",
+        "serving": "6 servings",
+        "imageURL": "https://i.ibb.co/FD6LbgL/sesameballs-Songlicious.png",
+        "ingredients": [
+            {
+                "quantity": "2 cups",
+                "name": "rice flour",
+                "spec": "glutinous"
+            },
+            {
+                "quantity": "1 tbsp",
+                "name": "rice flour",
+                "spec": ""
+            },
+            {
+                "quantity": "1/2 cup",
+                "name": "potato flakes",
+                "spec": ""
+            },
+            {
+                "quantity": "1 1/4 tsp",
+                "name": "baking powder",
+                "spec": ""
+            },
+            {
+                "quantity": "1 tsp",
+                "name": "oil",
+                "spec": "corn"
+            },
+            {
+                "quantity": "1 1/4 cup",
+                "name": "water",
+                "spec": "hot"
+            },
+            {
+                "quantity": "",
+                "name": "taro",
+                "spec": "paste"
+            }
+        ],
+        "steps": [
+            "In a large bowl, mix 1/2 cup of the potato flakes with 1/2 cup of hot water.",
+            "Add glutinous rice, rice flour, baking powder and oil and mix with the mixed potato flakes",
+            "In a small pot cook the sugar and water until the sugar dissolves.",
+            "Slowly add the cooked sugar syrup to the dried ingredients. Use a spatula to mix all your ingredients (don’t burn your hands).",
+            "If the dough is still too dry, keep adding 1 tablespoon or more of hot water until the dough is smooth. Wrap the dough with plastic and let it sit for 30 minutes. ",
+            "Divide the dough into 12 balls. Roll each dough into a ball then flat it and place the filling and roll it back into a ball. Sprinkle the ball with sesame seeds.",
+            "Heat the oil and when the oil temperature reaches between 313 degree to 325 degree then it is ready to fry the balls. Keep stirring the balls constantly, once the balls are golden brown then it’s done."
+        ]
     }
+
 ]
