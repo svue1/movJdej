@@ -1,133 +1,8 @@
 [
     {
-        "name": "Nam Khao",
-        "author": "123 Eat @123EatbyCox",
-        "id": "1",
-        "ctext": "This is a loved Lao crispy rice dish provided from 123 Eat by Cox. It is a perfect balance of sweet, spicy, sour, and savory! It is customizable to your taste preferences.",
-        "time": "1 hour and 5 minutes",
-        "serving": "6 servings",
-        "imageURL": "https://i.ibb.co/d7Z7R7w/Nam-Khao-123-Eat.jpg",
-        "ingredients": [
-            {
-                "quantity": "6 cups",
-                "name": "rice",
-                "spec": "cooked"
-            },
-            {
-                "quantity": "4 tbsp",
-                "name": "red curry paste",
-                "spec": ""
-            },
-            {
-                "quantity": "5 tbsp",
-                "name": "fish sauce",
-                "spec": ""
-            },
-            {
-                "quantity": "3 tbsp",
-                "name": "palm sugar",
-                "spec": "or sugar"
-            },
-            {
-                "quantity": "2 tbsp",
-                "name": "lime leaves",
-                "spec": "minced"
-            },
-            {
-                "quantity": "2",
-                "name": "egg",
-                "spec": ""
-            },
-            {
-                "quantity": "1/2 cup",
-                "name": "coconut meat",
-                "spec": "grated"
-            },
-            {
-                "quantity": "1 tsp",
-                "name": "salt",
-                "spec": ""
-            },
-            {
-                "quantity": "2 cloves",
-                "name": "garlic",
-                "spec": "minced"
-            },
-            {
-                "quantity": "4 tbsp",
-                "name": "lime",
-                "spec": "juice"
-            },
-            {
-                "quantity": "2 tsp",
-                "name": "chili",
-                "spec": "powder"
-            },
-            {
-                "quantity": "2 cups",
-                "name": "nam sausage",
-                "spec": "cut to bite sized"
-            },
-            {
-                "quantity": "2",
-                "name": "Laotian sausage",
-                "spec": "cooked and cut to bite sized"
-            },
-            {
-                "quantity": "",
-                "name": "mint",
-                "spec": "chopped"
-            },
-            {
-                "quantity": "",
-                "name": "cilantro",
-                "spec": "chopped"
-            },
-            {
-                "quantity": "",
-                "name": "green onion",
-                "spec": "chopped"
-            },
-            {
-                "quantity": "",
-                "name": "basil",
-                "spec": "chopped"
-            },
-            {
-                "quantity": "",
-                "name": "red onion",
-                "spec": "or shallot chopped"
-            },
-            {
-                "quantity": "",
-                "name": "Thai pepper",
-                "spec": "optional"
-            },
-            {
-                "quantity": "",
-                "name": "oil",
-                "spec": ""
-            },
-            {
-                "quantity": "",
-                "name": "lettuce",
-                "spec": "optional"
-            }
-        ],
-        "steps": [
-            "For the dressing, mix together 2 garlic minced, 4 tbsp of lime juice, 2 tbsp of palm or regular sugar, 4 tbsp of fish sauce, and 2 tsp of chili powder. Set this dressing in the fridge until ready to serve.",
-            "For the rice balls, mix together 6 cups of cooked rice, 4 tbsp of red curry paste, 1 tbsp of fish sauce, 1 tbsp of palm or regular sugar, 2 tbsp of minced lime leaves, 2 eggs, 1/2 cup of grated coconut meat, and 1 tsp of salt.",
-            "Form the mixture into bite sized rice balls.",
-            "In a pan or pot with at least 1 inch of oil, set the heat to medium. Wait until the oil is heated.",
-            "Fry the rice balls in the oil for about 3 minutes or until golden brown. Set them aside to drain the oil and cool down.",
-            "After frying, break the rice balls into smaller pieces. Add in the nam sausage, Laotian sausage, your preferred amount of mint, cilantro, green onion, basil, red onion or shallot, and Thai pepper.",
-            "Grab the dressing from the fridge and mix it with the mixture to serve. Optional to eat each bite in a lettuce wrap!"
-        ]
-    },
-    {
         "name": "Bean Thread Noodles with Chicken Bamboo Stir Fry",
         "author": "123 Eat @123EatbyCox",
-        "id": "2",
+        "id": "1",
         "ctext": "This is simple but very flavorful dish! Especially with the noodles soaking up the gelatnous impact of the chicken wing tips, this is a must-try dish. ",
         "time": "55 minutes",
         "serving": "4 servings",
@@ -194,6 +69,48 @@
         ]
     },
     {
+        "name": "Zaub Ntsuab Hau Nrog Nqaij Npuas Boiled Sherlihon with Pork",
+        "author": "Lou Vang",
+        "id": "12",
+        "ctext": "This is a simple, but essential, Hmong dish that is at almost every large Hmong event. From shaman ritual gatherings to weddings, this is a go-to dish that can be made in large batches to feed the whole event. The pork belly can be substituted for any cut of meat. The light broth is also a favorite to eat with rice! Pair this dish with some Hmong pepper and it is game over.",
+        "time": "25 minutes",
+        "serving": "6 servings",
+        "imageURL": "https://i.ibb.co/LvBZNR2/zaub-ntsuab-Lou-V.jpg",
+        "ingredients": [
+            {
+                "quantity": "1 pack",
+                "name": "sherlihon",
+                "spec": ""
+            },
+            {
+                "quantity": "1 pack",
+                "name": "pork belly",
+                "spec": ""
+            },
+            {
+                "quantity": "",
+                "name": "salt",
+                "spec": ""
+            }
+            ,
+            {
+                "quantity": "",
+                "name": "water",
+                "spec": ""
+            }
+        ],
+        "steps": [
+            "Rinse the pork belly and lice them into sizes of your preference (the smaller the faster it will cook).",
+            "In a medium-sized pot, fill it halfway with water and set it on high on the stove.",
+            "Place the meat in the pot to boil until the meat is cooked (usually when the slices are floating:, they are cooked).",
+            "While the pot is cooking the meat, snap the leaved of the sherlihon, cut away any bad areas, and rinse them to get the dirt out. You can snap the stems and leaves into more sizable pieces.",
+            "Once the meat is cooked, put the washed sherlihon into the pot. Make sure that each piece has been submerged into the boiling broth",
+            "Wait about 5 minutes to cook. Test a stem for the level of softness you prefer.",
+            "Add salt to taste and stir the pot a few times.",
+            "Once the stem is the preferred softness, turn off the heat and it is ready to serve. To store, take out all the sherlihon onto a separate plate so that the hot broth do not overcook them. Wait until the broth has cooled before putting them back in to store."
+        ]
+    },
+    {
         "name": "Khaub Piaj Noodles",
         "author": "123 Eat @123EatbyCox",
         "id": "3",
@@ -231,70 +148,56 @@
         ]
     },
     {
-        "name": "Ncuav Sawv Rice Muffin",
-        "author": "Songlicious @songlicious",
+        "name": "Kuv Niam Cov Mov Qhab Ntsev My Mom Tasty Salt Rice",
+        "author": "KaLia Yang",
         "id": "4",
-        "ctext": "This is a community favorite for events and getherings. You can find these at house parties, weddings, to funerals. It is an easy grab and go snack that has a slight sweet hint. Its charm is the fluffiness!",
-        "time": "1 hour and 20 minutes",
-        "serving": "8 servings",
-        "imageURL": "https://i.ibb.co/qpsVc8L/Ncuav-Sawv-Songlicious.png",
+        "ctext": "If you are looking for a savory comfort food then do you dare to attempt this dish? This dish will satisfy the craving of salty foods with rice. It is warm and will keep you full! This dish is solely from my dearest Hmong Mother that was born in Laos and came to the US. This recipe has pork belly listed as the meat, but anything with a lot of fat and tendons like pig feet would work too! Sharing this recipe with all of you wonderful people. I believe you will enjoy my Mother different version of sticky white rice.",
+        "time": "2 hours",
+        "serving": "6 servings",
+        "imageURL": "https://i.ibb.co/PCMYgh8/saltyrice-Ka-Lia.jpg",
         "ingredients": [
             {
-                "quantity": "15 oz",
-                "name": "rice flour",
+                "quantity": "1 package",
+                "name": "pork belly",
+                "spec": "thinly sliced"
+            },
+            {
+                "quantity": "2 cups",
+                "name": "sticky rice",
                 "spec": ""
             },
             {
-                "quantity": "7 oz",
-                "name": "tapioca flour",
+                "quantity": "1 clove",
+                "name": "ginger",
                 "spec": ""
             },
             {
-                "quantity": "1 cup",
-                "name": "sugar",
+                "quantity": "3 tbsp",
+                "name": "lard",
                 "spec": ""
             },
             {
-                "quantity": "1 cup",
-                "name": "coconut milk",
+                "quantity": "2 pinch",
+                "name": "salt",
                 "spec": ""
-            },
-            {
-                "quantity": "3 cups",
-                "name": "water",
-                "spec": ""
-            },
-            {
-                "quantity": "1/2 tbsp",
-                "name": "instant yeast",
-                "spec": "dried"
-            },
-            {
-                "quantity": "1 tsp",
-                "name": "baking powder",
-                "spec": ""
-            },
-            {
-                "quantity": "1/4 cup",
-                "name": "potato flakes",
-                "spec": ""
-            },
-            {
-                "quantity": "",
-                "name": "food color",
-                "spec": "optional"
             }
         ],
         "steps": [
-            "n a pot for the keeb, mix 4 oz of rice flour, 1/4 potato flakes, and 2 cups of water thoroughly.",
-            "In a separate bowl, mix the rest of the ingredients well into a paste until there are no lumps.",
-            "Cook the keeb in between low to medium heat until the mixture thickens. ",
-            "Slowly pour the keeb mixture into the paste that was mixed earlier.",
-            "Stir the mixture well then cover it and set aside for 1 hour. (Songlicious usually puts the mixture in the oven that is turned off along with a bowl of water that has been boiled.)",
-            "Optional to divide the mixture and add food color for different colors.",
-            "Pour into a muffin mold and steam for 15 minutes.",
-            "Let it cool and take it off from the mold.",
-            "Repeat 7 and 8 until all the muffins are cooked."
+            "Rinse the white sticky rice in the bowl in warm to cold water. Rinse and pour water out about 3-4 times. Repeat until the water on the rice is a bit clear then the rice should be good.",
+            "You can choose to keep the skin of the ginger. If not, then use a spoon and scrape the outer layer of the ginger.",
+            "Grab a pot and bring it to the sink and fill the pot about more than half way. Bring the pot of water to the stove and turn it to high heat.",
+            "Place the pork belly into the pot. Let it cook for 25 minutes. After 25 minutes, grab the pot and pour out the hot water in the sink into the strainer and set that aside.",
+            "Use the back of the medium or butcher knife and a cutting board, start smashing the ginger until it is almost a paste. Scoop the paste ginger to the small bowl and set it aside.",
+            "Fill the pot with water about more than half way of the pot. Set that on the stove and heat up the pot on high.",
+            "Put 3 tablespoons of lard into a stir-fry pan. Does not have to be an exact measurement and that is perfectly fine!",
+            "Grab the rice steamer with a boiler and separate the top layer from the bottom layer. Go to the sink and fill the bottom layer pot boiler with water more than half way. Leave the top layer of the rice steamer in the sink and keep the cover for the top off.",
+            "Go to the stove and heat the stir-fry pan at medium until the lard melts. Throw in the paste ginger into the melted pork oil and grab the cooking stir utensil. Stir the ginger between 3-4 times and spread it evenly on the pan.",
+            "Grab the bowl of the rinsed sticky white rice and pour it into the stir-fry pan that is cooking the ginger. Stir the rice until it has heated up enough that the rice has soaked up the oil for about 2 and a half minutes.",
+            "Turn off the stove for the stir-fry pan. Pour the stir-fry rice mix into the hot water of the pot (not the bottom boiler steam rice!). Stir the pot and let the rice bring to a hot boil. Add two pinch of salt and stir again.",
+            "Turn off the stove for the pot. Grab and wear the safety mitts to both of your hands. Grab the hot boiling pot with the rice mix. Go to the sink and pour the hot water rice mix into the top layer rice steamer. Let the hot water rice mix drain then grab the top layer of rice steamer with the partially cooked rice mix and put that on top the bottom layer of the steam rice boiler. (Watch out for dripping hot liquids on legs and toes!)",
+            "Grab the bowl of cooked pork belly. Pour and spread the meat on top of the rice mix in the rice steamer evenly. Cover it with the lid.",
+            "Let the rice mix steam for a good 35-40 minutes. Then turn off the stove.",
+            "Use your safety hand mitts and pour the cooked rice onto the long aluminum tray. Grab the rice scooper and use that to spread the cooked rice and mix it well with the pork. Make sure to spread the sticky white rice cooked with pork evenly. Let it cool for 5-7 minutes before serving."
         ]
     }
 ]

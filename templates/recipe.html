@@ -14,9 +14,8 @@
     </h1>
     <hr>
     <div class="recipe-container-details">
-        <p>{{recipe['serving']}} : {{recipe['time']}}</p>
-        <p>{{recipe['ctext']}}</p>
         <img src="{{recipe['imageURL']}}" alt="{{recipe['imageURL']}}" id="recipe-img">
+        <p id="r_details">{{recipe['serving']}} : {{recipe['time']}}<br><br>Author: {{recipe['author']}}<br><br>{{recipe['ctext']}}</p>
         <div id="ingredients">
             <h3>Ingredients</h3>
             <ul>

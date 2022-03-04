@@ -10,7 +10,7 @@
   }
 * {
     box-sizing: border-box;
-    line-height: 1.5;
+    line-height: 2;
     margin: 0;
 }
 body {
@@ -148,19 +148,6 @@ footer {
     margin: auto;
     background-color: var(--light);
 }
-#feature_i {
-    max-width: 500px;
-    margin: 0%;
-    padding: 2%;
-}
-#feature_p {
-    max-width: 400px;
-    margin: 2%;
-    padding: 1%;
-    font-size: 20px;
-    text-align: center;
-    background-color: var(--light);
-}
 .home-box {
     padding-top: 2%;
     padding-left: 15%;
@@ -176,7 +163,19 @@ footer {
 /* Recipe Card CSS */
 .card {
     width: 250px;
+    max-height: 450px;
     background-color: var(--light);
+    overflow-y: scroll;
+    mask-image: linear-gradient(to top, transparent, var(--black)), linear-gradient(to left, transparent 17px, var(--black) 17px);
+    mask-size: 100% 20000px;
+    mask-position: left bottom;
+    -webkit-mask-image: linear-gradient(to top, transparent, var(--black)), linear-gradient(to left, transparent 17px, var(--black) 17px);
+    -webkit-mask-size: 100% 20000px;
+    -webkit-mask-position: left bottom;
+    transition: mask-position 0.3s, -webkit-mask-position 0.3s;
+}
+.card:hover {
+    -webkit-mask-position: left top;
 }
 .card-image-top {
     height: 200px;
@@ -225,7 +224,11 @@ footer {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    padding-bottom: 15px;
+    padding-bottom: 60px;
+}
+#r_details {
+    padding-top: 2%;
+    max-width: 450px;
 }
 .recipe-container-details h3 {
     color: var(--dark);
@@ -282,6 +285,7 @@ footer {
     height: 3em;
     border-radius: 10px;
     padding: 10px 15px;
+    padding-bottom: 40px;
     background: var(--medium);
     color: var(--white);
     font-size: 14px;

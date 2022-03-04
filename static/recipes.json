@@ -1,8 +1,220 @@
 [
     {
-        "name": "Nam Khao",
+        "name": "Bean Thread Noodles with Chicken Bamboo Stir Fry",
         "author": "123 Eat @123EatbyCox",
         "id": "1",
+        "ctext": "This is simple but very flavorful dish! Especially with the noodles soaking up the gelatnous impact of the chicken wing tips, this is a must-try dish. ",
+        "time": "55 minutes",
+        "serving": "4 servings",
+        "imageURL": "https://i.ibb.co/gJWkH0y/Bean-Thread-Stir-Fry-123-Eat.png",
+        "ingredients": [
+            {
+                "quantity": "1 lbs",
+                "name": "chicken",
+                "spec": "ground"
+            },
+            {
+                "quantity": "1 tbsp",
+                "name": "oil",
+                "spec": ""
+            },
+            {
+                "quantity": "10",
+                "name": "chicken wing",
+                "spec": "tips"
+            },
+            {
+                "quantity": "1 cup",
+                "name": "bean thread noodle",
+                "spec": "cooked and cut to shorter lengths"
+            },
+            {
+                "quantity": "1/2 cup",
+                "name": "bell pepper",
+                "spec": "cut into strips"
+            },
+            {
+                "quantity": "1 cup",
+                "name": "bamboo shoot",
+                "spec": "cut into thin strips"
+            },
+            {
+                "quantity": "4 stalks",
+                "name": "green onion",
+                "spec": "cut into 1/2 inch thick pieces"
+            },
+            {
+                "quantity": "4 tbsp",
+                "name": "Ajinomoto seasoning powder Thai basil stir fry",
+                "spec": ""
+            },
+            {
+                "quantity": "2 tbsp",
+                "name": "oyster sauce",
+                "spec": ""
+            },
+            {
+                "quantity": "60 ml",
+                "name": "water",
+                "spec": ""
+            }
+        ],
+        "steps": [
+            "Mix the 60 ml of water and the Ajinomoto seasoning until the seasoning has best dissolved. Set this to the side.",
+            "Add oil to a large pan and set on medium heat.",
+            "Cook the ground chicken and the chicken wing tips until golden brown or fully cooked.",
+            "Add the bamboo shoots and cook for another 2 minutes.",
+            "Add the mixture of water and seasoning, oyster sauce, and bean thread noodles. Cook for another 3 minutes while folding the mixture together.",
+            "Add bell peppers and green onions. After mixing well, it is ready to serve!"
+        ]
+    },
+    {
+        "name": "Black Bean Tapioca Snack",
+        "author": "Songlicious @songlicious",
+        "id": "2",
+        "ctext": "Wondering about what to do with the those canned black beans? Try this recipe for your next dessert!",
+        "time": "45 minutes",
+        "serving": "8 servings",
+        "imageURL": "https://i.ibb.co/xgLZqns/Black-Bean-Snack-Songlicious.jpg",
+        "ingredients": [
+            {
+                "quantity": "15 oz",
+                "name": "black bean",
+                "spec": ""
+            },
+            {
+                "quantity": "2 cup",
+                "name": "water",
+                "spec": ""
+            },
+            {
+                "quantity": "1/2 cup",
+                "name": "coconut milk",
+                "spec": ""
+            },
+            {
+                "quantity": "3/4 cup",
+                "name": "sugar",
+                "spec": ""
+            },
+            {
+                "quantity": "3/4 cup",
+                "name": "tapioca flour",
+                "spec": ""
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "rice flour",
+                "spec": ""
+            },
+            {
+                "quantity": "",
+                "name": "oil",
+                "spec": ""
+            }
+        ],
+        "steps": [
+            "Boil the black beans in water for about 7 minutes or until the beans are tender",
+            "Mash the beans through a sieve, then discard the skins.",
+            "Mix the coconut milk, sugar, tapioca flour, and rice flour until there are no lumps.",
+            "Oil a 9 inch round pan and pour batter into it (if you want a thinner layer, divide batter into 2 batters).",
+            "Set the stove to low/medium heat and steam for 20 minutes."
+        ]
+    },
+    {
+        "name": "Khaub Piaj Noodles",
+        "author": "123 Eat @123EatbyCox",
+        "id": "3",
+        "ctext": "Learn how to make your own Khaub Piaj noodles! That way, you can adjust the firmness and size of your noodles. This is a simple recipe provided by 123 Eat by Cox!",
+        "time": "30 minutes",
+        "serving": "8 servings",
+        "imageURL": "https://i.ibb.co/thRthj0/Khao-Piaj-123-Eat.jpg",
+        "ingredients": [
+            {
+                "quantity": "3 bags",
+                "name": "tapioca starch",
+                "spec": "Green Three Deer Brand"
+            },
+            {
+                "quantity": "1 bag",
+                "name": "rice flour",
+                "spec": "Red Erawan Brand"
+            },
+            {
+                "quantity": "5 cups",
+                "name": "water",
+                "spec": "boiling"
+            }
+        ],
+        "steps": [
+            "Mix 2 bags of tapioca starch and 1 bag of rice flour thoroughly.",
+            "On a clean surface, gather the mixture into a collective pile. Create a well (hole) in the center of the pile where you will pour water in later.",
+            "Boil 5 cups of water.",
+            "Slowly pour a little of the boiling water into the well.",
+            "Fold the powder mixture in with a spatula and create another well to pour boiling water in again.",
+            "Repeat steps 4 and 5 until all the water has been poured.",
+            "Keep folding with the spatula until the dough is cool enough to touch.",
+            "Knead the dough, and use the extra bag of tapioca starch as needed to keep dough from sticking to hands and surface.",
+            "The dough is ready to be cut into any preferred noodle size."
+        ]
+    },
+    {
+        "name": "Kuv Niam Cov Mov Qhab Ntsev My Mom Tasty Salt Rice",
+        "author": "KaLia Yang",
+        "id": "4",
+        "ctext": "If you are looking for a savory comfort food then do you dare to attempt this dish? This dish will satisfy the craving of salty foods with rice. It is warm and will keep you full! This dish is solely from my dearest Hmong Mother that was born in Laos and came to the US. This recipe has pork belly listed as the meat, but anything with a lot of fat and tendons like pig feet would work too! Sharing this recipe with all of you wonderful people. I believe you will enjoy my Mother different version of sticky white rice.",
+        "time": "2 hours",
+        "serving": "6 servings",
+        "imageURL": "https://i.ibb.co/PCMYgh8/saltyrice-Ka-Lia.jpg",
+        "ingredients": [
+            {
+                "quantity": "1 package",
+                "name": "pork belly",
+                "spec": "thinly sliced"
+            },
+            {
+                "quantity": "2 cups",
+                "name": "sticky rice",
+                "spec": ""
+            },
+            {
+                "quantity": "1 clove",
+                "name": "ginger",
+                "spec": ""
+            },
+            {
+                "quantity": "3 tbsp",
+                "name": "lard",
+                "spec": ""
+            },
+            {
+                "quantity": "2 pinch",
+                "name": "salt",
+                "spec": ""
+            }
+        ],
+        "steps": [
+            "Rinse the white sticky rice in the bowl in warm to cold water. Rinse and pour water out about 3-4 times. Repeat until the water on the rice is a bit clear then the rice should be good.",
+            "You can choose to keep the skin of the ginger. If not, then use a spoon and scrape the outer layer of the ginger.",
+            "Grab a pot and bring it to the sink and fill the pot about more than half way. Bring the pot of water to the stove and turn it to high heat.",
+            "Place the pork belly into the pot. Let it cook for 25 minutes. After 25 minutes, grab the pot and pour out the hot water in the sink into the strainer and set that aside.",
+            "Use the back of the medium or butcher knife and a cutting board, start smashing the ginger until it is almost a paste. Scoop the paste ginger to the small bowl and set it aside.",
+            "Fill the pot with water about more than half way of the pot. Set that on the stove and heat up the pot on high.",
+            "Put 3 tablespoons of lard into a stir-fry pan. Does not have to be an exact measurement and that is perfectly fine!",
+            "Grab the rice steamer with a boiler and separate the top layer from the bottom layer. Go to the sink and fill the bottom layer pot boiler with water more than half way. Leave the top layer of the rice steamer in the sink and keep the cover for the top off.",
+            "Go to the stove and heat the stir-fry pan at medium until the lard melts. Throw in the paste ginger into the melted pork oil and grab the cooking stir utensil. Stir the ginger between 3-4 times and spread it evenly on the pan.",
+            "Grab the bowl of the rinsed sticky white rice and pour it into the stir-fry pan that is cooking the ginger. Stir the rice until it has heated up enough that the rice has soaked up the oil for about 2 and a half minutes.",
+            "Turn off the stove for the stir-fry pan. Pour the stir-fry rice mix into the hot water of the pot (not the bottom boiler steam rice!). Stir the pot and let the rice bring to a hot boil. Add two pinch of salt and stir again.",
+            "Turn off the stove for the pot. Grab and wear the safety mitts to both of your hands. Grab the hot boiling pot with the rice mix. Go to the sink and pour the hot water rice mix into the top layer rice steamer. Let the hot water rice mix drain then grab the top layer of rice steamer with the partially cooked rice mix and put that on top the bottom layer of the steam rice boiler. (Watch out for dripping hot liquids on legs and toes!)",
+            "Grab the bowl of cooked pork belly. Pour and spread the meat on top of the rice mix in the rice steamer evenly. Cover it with the lid.",
+            "Let the rice mix steam for a good 35-40 minutes. Then turn off the stove.",
+            "Use your safety hand mitts and pour the cooked rice onto the long aluminum tray. Grab the rice scooper and use that to spread the cooked rice and mix it well with the pork. Make sure to spread the sticky white rice cooked with pork evenly. Let it cool for 5-7 minutes before serving."
+        ]
+    },
+    {
+        "name": "Nam Khao",
+        "author": "123 Eat @123EatbyCox",
+        "id": "5",
         "ctext": "This is a loved Lao crispy rice dish provided from 123 Eat by Cox. It is a perfect balance of sweet, spicy, sour, and savory! It is customizable to your taste preferences.",
         "time": "1 hour and 5 minutes",
         "serving": "6 servings",
@@ -125,115 +337,112 @@
         ]
     },
     {
-        "name": "Bean Thread Noodles with Chicken Bamboo Stir Fry",
-        "author": "123 Eat @123EatbyCox",
-        "id": "2",
-        "ctext": "This is simple but very flavorful dish! Especially with the noodles soaking up the gelatnous impact of the chicken wing tips, this is a must-try dish. ",
-        "time": "55 minutes",
-        "serving": "4 servings",
-        "imageURL": "https://i.ibb.co/gJWkH0y/Bean-Thread-Stir-Fry-123-Eat.png",
+        "name": "Ncuav Kib Sesame Balls Filled with Taro",
+        "author": "Songlicious @songlicious",
+        "id": "6",
+        "ctext": "Sesame balls are a popular treat as they are easy to eat on the go as well as pack a ton of flavor. They are fun with the crunchy deep fried outer layer and the different varieties of fillings. Fillings include but are not limited to egg, custard, mung bean, meat, veggies, and can even be hollow like a donut! Try this recipe by Songlicious where the filling is sweet taro!",
+        "time": "1 hour 30 minutes",
+        "serving": "6 servings",
+        "imageURL": "https://i.ibb.co/FD6LbgL/sesameballs-Songlicious.png",
         "ingredients": [
             {
-                "quantity": "1 lbs",
-                "name": "chicken",
-                "spec": "ground"
+                "quantity": "2 cups",
+                "name": "rice flour",
+                "spec": "glutinous"
             },
             {
                 "quantity": "1 tbsp",
-                "name": "oil",
+                "name": "rice flour",
                 "spec": ""
             },
             {
-                "quantity": "10",
-                "name": "chicken wing",
-                "spec": "tips"
+                "quantity": "1/2 cup",
+                "name": "potato flakes",
+                "spec": ""
             },
             {
-                "quantity": "1 cup",
-                "name": "bean thread noodle",
-                "spec": "cooked and cut to shorter lengths"
+                "quantity": "1 1/4 tsp",
+                "name": "baking powder",
+                "spec": ""
+            },
+            {
+                "quantity": "1 tsp",
+                "name": "oil",
+                "spec": "corn"
+            },
+            {
+                "quantity": "1 1/4 cup",
+                "name": "water",
+                "spec": "hot"
+            },
+            {
+                "quantity": "",
+                "name": "taro",
+                "spec": "paste"
+            }
+        ],
+        "steps": [
+            "In a large bowl, mix 1/2 cup of the potato flakes with 1/2 cup of hot water.",
+            "Add glutinous rice, rice flour, baking powder and oil and mix with the mixed potato flakes",
+            "In a small pot cook the sugar and water until the sugar dissolves.",
+            "Slowly add the cooked sugar syrup to the dried ingredients. Use a spatula to mix all your ingredients (don’t burn your hands).",
+            "If the dough is still too dry, keep adding 1 tablespoon or more of hot water until the dough is smooth. Wrap the dough with plastic and let it sit for 30 minutes. ",
+            "Divide the dough into 12 balls. Roll each dough into a ball then flat it and place the filling and roll it back into a ball. Sprinkle the ball with sesame seeds.",
+            "Heat the oil and when the oil temperature reaches between 313 degree to 325 degree then it is ready to fry the balls. Keep stirring the balls constantly, once the balls are golden brown then it’s done."
+        ]
+    },
+    {
+        "name": "Ncuav Nplaum Sticky Rice Waffles",
+        "author": "Songlicious @songlicious",
+        "id": "7",
+        "ctext": "Looking to change up your waffle game? Try a Songlicious recipe for making sticky rice waffles! The exture of these waffles are chewy and bouncy like a sesame ball in comparision to traditional waffles. These will still go well with maple syrup and butter, but you can also try a palm sugar or syrup di as well! Love rice and waffles? Then this might be for you!",
+        "time": "20 minutes",
+        "serving": "3 servings",
+        "imageURL": "https://i.ibb.co/YTqrF5D/ricewaffles-Songlicious.png",
+        "ingredients": [
+            {
+                "quantity": "2 cups",
+                "name": "rice flour",
+                "spec": "glutinous"
             },
             {
                 "quantity": "1/2 cup",
-                "name": "bell pepper",
-                "spec": "cut into strips"
+                "name": "sugar",
+                "spec": "brown"
             },
             {
-                "quantity": "1 cup",
-                "name": "bamboo shoot",
-                "spec": "cut into thin strips"
+                "quantity": "1/4 cup",
+                "name": "coconut milk",
+                "spec": ""
             },
             {
-                "quantity": "4 stalks",
-                "name": "green onion",
-                "spec": "cut into 1/2 inch thick pieces"
-            },
-            {
-                "quantity": "4 tbsp",
-                "name": "Ajinomoto seasoning powder Thai basil stir fry",
+                "quantity": "3/4 cup",
+                "name": "water",
                 "spec": ""
             },
             {
                 "quantity": "2 tbsp",
-                "name": "oyster sauce",
+                "name": "oil",
                 "spec": ""
             },
             {
-                "quantity": "60 ml",
-                "name": "water",
+                "quantity": "1 tsp",
+                "name": "baking powder",
                 "spec": ""
             }
         ],
         "steps": [
-            "Mix the 60 ml of water and the Ajinomoto seasoning until the seasoning has best dissolved. Set this to the side.",
-            "Add oil to a large pan and set on medium heat.",
-            "Cook the ground chicken and the chicken wing tips until golden brown or fully cooked.",
-            "Add the bamboo shoots and cook for another 2 minutes.",
-            "Add the mixture of water and seasoning, oyster sauce, and bean thread noodles. Cook for another 3 minutes while folding the mixture together.",
-            "Add bell peppers and green onions. After mixing well, it is ready to serve!"
-        ]
-    },
-    {
-        "name": "Khaub Piaj Noodles",
-        "author": "123 Eat @123EatbyCox",
-        "id": "3",
-        "ctext": "Learn how to make your own Khaub Piaj noodles! That way, you can adjust the firmness and size of your noodles. This is a simple recipe provided by 123 Eat by Cox!",
-        "time": "30 minutes",
-        "serving": "8 servings",
-        "imageURL": "https://i.ibb.co/thRthj0/Khao-Piaj-123-Eat.jpg",
-        "ingredients": [
-            {
-                "quantity": "3 bags",
-                "name": "tapioca starch",
-                "spec": "Green Three Deer Brand"
-            },
-            {
-                "quantity": "1 bag",
-                "name": "rice flour",
-                "spec": "Red Erawan Brand"
-            },
-            {
-                "quantity": "5 cups",
-                "name": "water",
-                "spec": "boiling"
-            }
-        ],
-        "steps": [
-            "Mix 2 bags of tapioca starch and 1 bag of rice flour thoroughly.",
-            "On a clean surface, gather the mixture into a collective pile. Create a well (hole) in the center of the pile where you will pour water in later.",
-            "Boil 5 cups of water.",
-            "Slowly pour a little of the boiling water into the well.",
-            "Fold the powder mixture in with a spatula and create another well to pour boiling water in again.",
-            "Repeat steps 4 and 5 until all the water has been poured.",
-            "Keep folding with the spatula until the dough is cool enough to touch.",
-            "Knead the dough, and use the extra bag of tapioca starch as needed to keep dough from sticking to hands and surface.",
-            "The dough is ready to be cut into any preferred noodle size."
+            "Preheat waffle iron.",
+            "In a medium mixing bowl, add glutinous rice flour, sugar, coconut milk, water, oil, and baking powder.",
+            "Mix until everything is well combined.",
+            "Pour batter on the waffle iron. (1/2 cups)",
+            "Cook for 4.5 minutes. (It also depends on your waffles iron.)"
         ]
     },
     {
         "name": "Ncuav Sawv Rice Muffin",
         "author": "Songlicious @songlicious",
-        "id": "4",
+        "id": "8",
         "ctext": "This is a community favorite for events and getherings. You can find these at house parties, weddings, to funerals. It is an easy grab and go snack that has a slight sweet hint. Its charm is the fluffiness!",
         "time": "1 hour and 20 minutes",
         "serving": "8 servings",
@@ -298,62 +507,9 @@
         ]
     },
     {
-        "name": "Black Bean Tapioca Snack",
-        "author": "Songlicious @songlicious",
-        "id": "5",
-        "ctext": "Wondering about what to do with the those canned black beans? Try this recipe for your next dessert!",
-        "time": "45 minutes",
-        "serving": "8 servings",
-        "imageURL": "https://i.ibb.co/xgLZqns/Black-Bean-Snack-Songlicious.jpg",
-        "ingredients": [
-            {
-                "quantity": "15 oz",
-                "name": "black bean",
-                "spec": ""
-            },
-            {
-                "quantity": "2 cup",
-                "name": "water",
-                "spec": ""
-            },
-            {
-                "quantity": "1/2 cup",
-                "name": "coconut milk",
-                "spec": ""
-            },
-            {
-                "quantity": "3/4 cup",
-                "name": "sugar",
-                "spec": ""
-            },
-            {
-                "quantity": "3/4 cup",
-                "name": "tapioca flour",
-                "spec": ""
-            },
-            {
-                "quantity": "1/4 cup",
-                "name": "rice flour",
-                "spec": ""
-            },
-            {
-                "quantity": "",
-                "name": "oil",
-                "spec": ""
-            }
-        ],
-        "steps": [
-            "Boil the black beans in water for about 7 minutes or until the beans are tender",
-            "Mash the beans through a sieve, then discard the skins.",
-            "Mix the coconut milk, sugar, tapioca flour, and rice flour until there are no lumps.",
-            "Oil a 9 inch round pan and pour batter into it (if you want a thinner layer, divide batter into 2 batters).",
-            "Set the stove to low/medium heat and steam for 20 minutes."
-        ]
-    },
-    {
         "name": "Steamed Layer Cake",
         "author": "Songlicious @songlicious",
-        "id": "6",
+        "id": "9",
         "ctext": "Tapioca layer cakes are a favorite in the Hmong community for its lightness in sweetness, texture, and fun properties as a snack! Pandan extract will turn it green, but it is fun to make these in varying colors.",
         "time": "1 hour and 5 minutes",
         "serving": "10 servings",
@@ -404,196 +560,11 @@
             "Repeat alternating colors and steaming each layer for 10 minutes each until the mix is used up. For the last layer, add an additional 5 minutes to steam.",
             "Leave the cake to cool before you start cutting."
         ]
-    }
-    ,
-    {
-        "name": "Zaub Dawb Hau Nrog Nqaij Npuas Napa Cabbage with Pork",
-        "author": "Nouchee Xiong",
-        "id": "7",
-        "ctext": "Napa cabbage is so versitile as it can be used for kimchee and a lot of stir fry dishes. Check out this recipe where napa cabbage is boiled with pork! It is similar to the traditional sherlihon boiled with pork dish, but instead the napa cabbage gives a lighter broth. Napa cabbage is also notas bitter and strong tasting as sherlihon. Pork belly is listed as an ingredient here, but any cut of prok will do!",
-        "time": "25 minutes",
-        "serving": "6 servings",
-        "imageURL": "https://i.ibb.co/q54RDKS/zaub-dawb-Nouchee-X.jpg",
-        "ingredients": [
-            {
-                "quantity": "half",
-                "name": "napa cabbage",
-                "spec": ""
-            },
-            {
-                "quantity": "",
-                "name": "pork belly",
-                "spec": ""
-            },
-            {
-                "quantity": "1 tbsp",
-                "name": "salt",
-                "spec": ""
-            },
-            {
-                "quantity": "half a pot",
-                "name": "water",
-                "spec": ""
-            }
-        ],
-        "steps": [
-            "Fill a pot with water and let it boil.",
-            "Cut the pork belly into 1 inch pieces. Set aside until water starts to boil. Once it boils, add it to the water.",
-            "Cut the napa cabbage in half from the stem to the top. Store the other half of napa cabbage away. ",
-            "With the half napa cabbage, start by deleafing the cabbage. Take one leaf off at a time. ",
-            "When the cabbage has become individual leaves, grab a knife and start cutting the leaf into long strips. The leaf strips should be 1-2 inches in size. Cut all the leaves.",
-            "Once the pork is floating on top of the water, add in 1 tablespoon of salt. Then add in the napa cabbage.",
-            "Let the dish boil until the napa cabbage becomes soft.",
-            "Serve with rice and a side of hmong pepper."
-        ]
-    },
-    {
-        "name": "Kuv Niam Cov Mov Qhab Ntsev My Mom Tasty Salt Rice",
-        "author": "KaLia Yang",
-        "id": "8",
-        "ctext": "If you are looking for a savory comfort food then do you dare to attempt this dish? This dish will satisfy the craving of salty foods with rice. It is warm and will keep you full! This dish is solely from my dearest Hmong Mother that was born in Laos and came to the US. This recipe has pork belly listed as the meat, but anything with a lot of fat and tendons like pig feet would work too! Sharing this recipe with all of you wonderful people. I believe you will enjoy my Mother different version of sticky white rice.",
-        "time": "2 hours",
-        "serving": "6 servings",
-        "imageURL": "https://i.ibb.co/PCMYgh8/saltyrice-Ka-Lia.jpg",
-        "ingredients": [
-            {
-                "quantity": "1 package",
-                "name": "pork belly",
-                "spec": "thinly sliced"
-            },
-            {
-                "quantity": "2 cups",
-                "name": "sticky rice",
-                "spec": ""
-            },
-            {
-                "quantity": "1 clove",
-                "name": "ginger",
-                "spec": ""
-            },
-            {
-                "quantity": "3 tbsp",
-                "name": "lard",
-                "spec": ""
-            },
-            {
-                "quantity": "2 pinch",
-                "name": "salt",
-                "spec": ""
-            }
-        ],
-        "steps": [
-            "Rinse the white sticky rice in the bowl in warm to cold water. Rinse and pour water out about 3-4 times. Repeat until the water on the rice is a bit clear then the rice should be good.",
-            "You can choose to keep the skin of the ginger. If not, then use a spoon and scrape the outer layer of the ginger.",
-            "Grab a pot and bring it to the sink and fill the pot about more than half way. Bring the pot of water to the stove and turn it to high heat.",
-            "Place the pork belly into the pot. Let it cook for 25 minutes. After 25 minutes, grab the pot and pour out the hot water in the sink into the strainer and set that aside.",
-            "Use the back of the medium or butcher knife and a cutting board, start smashing the ginger until it is almost a paste. Scoop the paste ginger to the small bowl and set it aside.",
-            "Fill the pot with water about more than half way of the pot. Set that on the stove and heat up the pot on high.",
-            "Put 3 tablespoons of lard into a stir-fry pan. Does not have to be an exact measurement and that is perfectly fine!",
-            "Grab the rice steamer with a boiler and separate the top layer from the bottom layer. Go to the sink and fill the bottom layer pot boiler with water more than half way. Leave the top layer of the rice steamer in the sink and keep the cover for the top off.",
-            "Go to the stove and heat the stir-fry pan at medium until the lard melts. Throw in the paste ginger into the melted pork oil and grab the cooking stir utensil. Stir the ginger between 3-4 times and spread it evenly on the pan.",
-            "Grab the bowl of the rinsed sticky white rice and pour it into the stir-fry pan that is cooking the ginger. Stir the rice until it has heated up enough that the rice has soaked up the oil for about 2 and a half minutes.",
-            "Turn off the stove for the stir-fry pan. Pour the stir-fry rice mix into the hot water of the pot (not the bottom boiler steam rice!). Stir the pot and let the rice bring to a hot boil. Add two pinch of salt and stir again.",
-            "Turn off the stove for the pot. Grab and wear the safety mitts to both of your hands. Grab the hot boiling pot with the rice mix. Go to the sink and pour the hot water rice mix into the top layer rice steamer. Let the hot water rice mix drain then grab the top layer of rice steamer with the partially cooked rice mix and put that on top the bottom layer of the steam rice boiler. (Watch out for dripping hot liquids on legs and toes!)",
-            "Grab the bowl of cooked pork belly. Pour and spread the meat on top of the rice mix in the rice steamer evenly. Cover it with the lid.",
-            "Let the rice mix steam for a good 35-40 minutes. Then turn off the stove.",
-            "Use your safety hand mitts and pour the cooked rice onto the long aluminum tray. Grab the rice scooper and use that to spread the cooked rice and mix it well with the pork. Make sure to spread the sticky white rice cooked with pork evenly. Let it cool for 5-7 minutes before serving."
-        ]
-    },
-    {
-        "name": "Zaub Ntsuab Hau Nrog Nqaij Npuas Boiled Sherlihon with Pork",
-        "author": "Lou Vang",
-        "id": "9",
-        "ctext": "This is a simple, but essential, Hmong dish that is at almost every large Hmong event. From shaman ritual gatherings to weddings, this is a go-to dish that can be made in large batches to feed the whole event. The pork belly can be substituted for any cut of meat. The light broth is also a favorite to eat with rice! Pair this dish with some Hmong pepper and it is game over.",
-        "time": "25 minutes",
-        "serving": "6 servings",
-        "imageURL": "https://i.ibb.co/LvBZNR2/zaub-ntsuab-Lou-V.jpg",
-        "ingredients": [
-            {
-                "quantity": "1 pack",
-                "name": "sherlihon",
-                "spec": ""
-            },
-            {
-                "quantity": "1 pack",
-                "name": "pork belly",
-                "spec": ""
-            },
-            {
-                "quantity": "",
-                "name": "salt",
-                "spec": ""
-            }
-            ,
-            {
-                "quantity": "",
-                "name": "water",
-                "spec": ""
-            }
-        ],
-        "steps": [
-            "Rinse the pork belly and lice them into sizes of your preference (the smaller the faster it will cook).",
-            "In a medium-sized pot, fill it halfway with water and set it on high on the stove.",
-            "Place the meat in the pot to boil until the meat is cooked (usually when the slices are floating:, they are cooked).",
-            "While the pot is cooking the meat, snap the leaved of the sherlihon, cut away any bad areas, and rinse them to get the dirt out. You can snap the stems and leaves into more sizable pieces.",
-            "Once the meat is cooked, put the washed sherlihon into the pot. Make sure that each piece has been submerged into the boiling broth",
-            "Wait about 5 minutes to cook. Test a stem for the level of softness you prefer.",
-            "Add salt to taste and stir the pot a few times.",
-            "Once the stem is the preferred softness, turn off the heat and it is ready to serve. To store, take out all the sherlihon onto a separate plate so that the hot broth do not overcook them. Wait until the broth has cooled before putting them back in to store."
-        ]
-    },
-    {
-        "name": "Ncuav Nplaum Sticky Rice Waffles",
-        "author": "Songlicious @songlicious",
-        "id": "10",
-        "ctext": "Looking to change up your waffle game? Try a Songlicious recipe for making sticky rice waffles! The exture of these waffles are chewy and bouncy like a sesame ball in comparision to traditional waffles. These will still go well with maple syrup and butter, but you can also try a palm sugar or syrup di as well! Love rice and waffles? Then this might be for you!",
-        "time": "20 minutes",
-        "serving": "3 servings",
-        "imageURL": "https://i.ibb.co/YTqrF5D/ricewaffles-Songlicious.png",
-        "ingredients": [
-            {
-                "quantity": "2 cups",
-                "name": "rice flour",
-                "spec": "glutinous"
-            },
-            {
-                "quantity": "1/2 cup",
-                "name": "sugar",
-                "spec": "brown"
-            },
-            {
-                "quantity": "1/4 cup",
-                "name": "coconut milk",
-                "spec": ""
-            },
-            {
-                "quantity": "3/4 cup",
-                "name": "water",
-                "spec": ""
-            },
-            {
-                "quantity": "2 tbsp",
-                "name": "oil",
-                "spec": ""
-            },
-            {
-                "quantity": "1 tsp",
-                "name": "baking powder",
-                "spec": ""
-            }
-        ],
-        "steps": [
-            "Preheat waffle iron.",
-            "In a medium mixing bowl, add glutinous rice flour, sugar, coconut milk, water, oil, and baking powder.",
-            "Mix until everything is well combined.",
-            "Pour batter on the waffle iron. (1/2 cups)",
-            "Cook for 4.5 minutes. (It also depends on your waffles iron.)"
-        ]
     },
     {
         "name": "Txiv Tsawb Kib Fried Bananas",
         "author": "Songlicious @songlicious",
-        "id": "11",
+        "id": "10",
         "ctext": "Have a sweet treat with this fried banas recipe! If you love bananas and fried foods, this may be for you. It is quick and easy and a popular on the go snack. The crunch of the outside paired with the soft sweet banana will make you crave for more!",
         "time": "30 minutes",
         "serving": "5 servings",
@@ -664,59 +635,86 @@
         ]
     },
     {
-        "name": "Ncuav Kib Sesame Balls Filled with Taro",
-        "author": "Songlicious @songlicious",
-        "id": "12",
-        "ctext": "Sesame balls are a popular treat as they are easy to eat on the go as well as pack a ton of flavor. They are fun with the crunchy deep fried outer layer and the different varieties of fillings. Fillings include but are not limited to egg, custard, mung bean, meat, veggies, and can even be hollow like a donut! Try this recipe by Songlicious where the filling is sweet taro!",
-        "time": "1 hour 30 minutes",
+        "name": "Zaub Dawb Hau Nrog Nqaij Npuas Napa Cabbage with Pork",
+        "author": "Nouchee Xiong",
+        "id": "11",
+        "ctext": "Napa cabbage is so versitile as it can be used for kimchee and a lot of stir fry dishes. Check out this recipe where napa cabbage is boiled with pork! It is similar to the traditional sherlihon boiled with pork dish, but instead the napa cabbage gives a lighter broth. Napa cabbage is also notas bitter and strong tasting as sherlihon. Pork belly is listed as an ingredient here, but any cut of prok will do!",
+        "time": "25 minutes",
         "serving": "6 servings",
-        "imageURL": "https://i.ibb.co/FD6LbgL/sesameballs-Songlicious.png",
+        "imageURL": "https://i.ibb.co/q54RDKS/zaub-dawb-Nouchee-X.jpg",
         "ingredients": [
             {
-                "quantity": "2 cups",
-                "name": "rice flour",
-                "spec": "glutinous"
-            },
-            {
-                "quantity": "1 tbsp",
-                "name": "rice flour",
+                "quantity": "half",
+                "name": "napa cabbage",
                 "spec": ""
-            },
-            {
-                "quantity": "1/2 cup",
-                "name": "potato flakes",
-                "spec": ""
-            },
-            {
-                "quantity": "1 1/4 tsp",
-                "name": "baking powder",
-                "spec": ""
-            },
-            {
-                "quantity": "1 tsp",
-                "name": "oil",
-                "spec": "corn"
-            },
-            {
-                "quantity": "1 1/4 cup",
-                "name": "water",
-                "spec": "hot"
             },
             {
                 "quantity": "",
-                "name": "taro",
-                "spec": "paste"
+                "name": "pork belly",
+                "spec": ""
+            },
+            {
+                "quantity": "1 tbsp",
+                "name": "salt",
+                "spec": ""
+            },
+            {
+                "quantity": "half a pot",
+                "name": "water",
+                "spec": ""
             }
         ],
         "steps": [
-            "In a large bowl, mix 1/2 cup of the potato flakes with 1/2 cup of hot water.",
-            "Add glutinous rice, rice flour, baking powder and oil and mix with the mixed potato flakes",
-            "In a small pot cook the sugar and water until the sugar dissolves.",
-            "Slowly add the cooked sugar syrup to the dried ingredients. Use a spatula to mix all your ingredients (don’t burn your hands).",
-            "If the dough is still too dry, keep adding 1 tablespoon or more of hot water until the dough is smooth. Wrap the dough with plastic and let it sit for 30 minutes. ",
-            "Divide the dough into 12 balls. Roll each dough into a ball then flat it and place the filling and roll it back into a ball. Sprinkle the ball with sesame seeds.",
-            "Heat the oil and when the oil temperature reaches between 313 degree to 325 degree then it is ready to fry the balls. Keep stirring the balls constantly, once the balls are golden brown then it’s done."
+            "Fill a pot with water and let it boil.",
+            "Cut the pork belly into 1 inch pieces. Set aside until water starts to boil. Once it boils, add it to the water.",
+            "Cut the napa cabbage in half from the stem to the top. Store the other half of napa cabbage away. ",
+            "With the half napa cabbage, start by deleafing the cabbage. Take one leaf off at a time. ",
+            "When the cabbage has become individual leaves, grab a knife and start cutting the leaf into long strips. The leaf strips should be 1-2 inches in size. Cut all the leaves.",
+            "Once the pork is floating on top of the water, add in 1 tablespoon of salt. Then add in the napa cabbage.",
+            "Let the dish boil until the napa cabbage becomes soft.",
+            "Serve with rice and a side of hmong pepper."
+        ]
+    },
+    {
+        "name": "Zaub Ntsuab Hau Nrog Nqaij Npuas Boiled Sherlihon with Pork",
+        "author": "Lou Vang",
+        "id": "12",
+        "ctext": "This is a simple, but essential, Hmong dish that is at almost every large Hmong event. From shaman ritual gatherings to weddings, this is a go-to dish that can be made in large batches to feed the whole event. The pork belly can be substituted for any cut of meat. The light broth is also a favorite to eat with rice! Pair this dish with some Hmong pepper and it is game over.",
+        "time": "25 minutes",
+        "serving": "6 servings",
+        "imageURL": "https://i.ibb.co/LvBZNR2/zaub-ntsuab-Lou-V.jpg",
+        "ingredients": [
+            {
+                "quantity": "1 pack",
+                "name": "sherlihon",
+                "spec": ""
+            },
+            {
+                "quantity": "1 pack",
+                "name": "pork belly",
+                "spec": ""
+            },
+            {
+                "quantity": "",
+                "name": "salt",
+                "spec": ""
+            }
+            ,
+            {
+                "quantity": "",
+                "name": "water",
+                "spec": ""
+            }
+        ],
+        "steps": [
+            "Rinse the pork belly and lice them into sizes of your preference (the smaller the faster it will cook).",
+            "In a medium-sized pot, fill it halfway with water and set it on high on the stove.",
+            "Place the meat in the pot to boil until the meat is cooked (usually when the slices are floating:, they are cooked).",
+            "While the pot is cooking the meat, snap the leaved of the sherlihon, cut away any bad areas, and rinse them to get the dirt out. You can snap the stems and leaves into more sizable pieces.",
+            "Once the meat is cooked, put the washed sherlihon into the pot. Make sure that each piece has been submerged into the boiling broth",
+            "Wait about 5 minutes to cook. Test a stem for the level of softness you prefer.",
+            "Add salt to taste and stir the pot a few times.",
+            "Once the stem is the preferred softness, turn off the heat and it is ready to serve. To store, take out all the sherlihon onto a separate plate so that the hot broth do not overcook them. Wait until the broth has cooled before putting them back in to store."
         ]
     }
-
 ]
